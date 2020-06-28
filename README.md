@@ -12,6 +12,7 @@
 - [License](#License)
 - [Credits](#Credits)
 <br>
+
 # PROJECT GOAL
 
 #### This project is designed to predict the CUSTOMER LIFE TIME VALUE of four wheeler insurance company using Regression Analysis with Python, FLASK, HTML, SQL 
