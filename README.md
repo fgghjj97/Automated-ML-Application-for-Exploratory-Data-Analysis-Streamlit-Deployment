@@ -15,12 +15,12 @@
 
 # PROJECT GOAL
 
-#### This project is designed to predict the CUSTOMER LIFE TIME VALUE of four wheeler insurance company using Regression Analysis with Python, FLASK, HTML, SQL 
-#### A highly comprehensive analysis with all data cleaning, exploration, visualization, feature selection, model building, evaluation and MLR assumptions validity steps explained in detail.
+ This project is designed to **Create Automated-ML-Application-for-Exploratory-Data-Analysis-Streamlit-Deployment with Python, streamlit, HTML** 
+ A highly comprehensive analysis with all **data cleaning, exploration, visualization have been in back end with python** and its **intention to create it like a NO CODE PLATFORM**
 
 # Project Motivation
 
-**Every Organization runs with the goal to get a profit from their product and customers, most of the organization is workig hard without compromizing quality of products to help those organization business requirement, this project has been designed**
+**I have been practicing Machine Learning for Past 6 Months, For implementing Regression, Classification and NLP models EXPLORATORY DATA ANALYSIS is must to understand the data. But it will take more time to Write code and to finish EDA, Its TIME CONSUMING, so it motivated me to create a NO CODE WEB APP for EDA**
 
 # Requirements Installation
 
@@ -30,12 +30,18 @@
     
 # File Section
 
+### Main.py
+
+**It consists of User Defing Functions To automate The Application**
+**All EDA Analysis have been implemented in back end**
+
 <br>
+
 # Technologies Used
 
 ![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/p1.jpg)
 ![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/p2.png)
-![Alt Text](https://github.com/DheerajKumar97/IPL-Score-Prediction-with-Flask-Deployment-Heroku/blob/master/static/p3.png)
+![Alt Text](https://github.com/DheerajKumar97/Automated-ML-Application-for-Exploratory-Data-Analysis-Streamlit-Deployment/blob/master/STREAMLIT.jpg)
 
 # License
 
@@ -49,4 +55,6 @@ Unless required by applicable law or agreed to in writing, software distributed 
 <br>
 
 # Credits
-
+<a href="https://pycaret.org/">PYCARET</a>
+<a href="https://www.streamlit.io/">STREAMLIT</a>
+<a href="https://github.com/vishalsiram">VISHAL SAIRAM GITHUB</a>
