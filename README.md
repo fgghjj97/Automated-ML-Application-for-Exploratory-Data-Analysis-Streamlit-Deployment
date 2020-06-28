@@ -16,6 +16,7 @@
 # PROJECT GOAL
 
  This project is designed to **Create Automated-ML-Application-for-Exploratory-Data-Analysis-Streamlit-Deployment with Python, streamlit, HTML** 
+ <br>
  A highly comprehensive analysis with all **data cleaning, exploration, visualization have been in back end with python** and its **intention to create it like a NO CODE PLATFORM**
 
 # Project Motivation
@@ -56,5 +57,9 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 # Credits
 <a href="https://pycaret.org/">PYCARET</a>
+<br>
+
 <a href="https://www.streamlit.io/">STREAMLIT</a>
+<br>
+
 <a href="https://github.com/vishalsiram">VISHAL SAIRAM GITHUB</a>
