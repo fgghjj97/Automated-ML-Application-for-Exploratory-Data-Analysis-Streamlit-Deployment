@@ -34,6 +34,8 @@
 ### Main.py
 
 **It consists of User Defing Functions To automate The Application**
+<br>
+
 **All EDA Analysis have been implemented in back end**
 
 <br>
