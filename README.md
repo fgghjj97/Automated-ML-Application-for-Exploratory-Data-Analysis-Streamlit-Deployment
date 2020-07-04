@@ -1,7 +1,7 @@
 ![Alt Text](https://github.com/DheerajKumar97/Automated-ML-Application-for-Exploratory-Data-Analysis-Streamlit-Deployment/blob/master/EDA.jpg)
 <br>
 #  Automated-ML-Application-for-Exploratory-Data-Analysis-Streamlit-Deployment
-<a href="https://www.youtube.com/watch?v=Za3HwoqykwY&feature=youtu.be">CLICK HERE FOR DEPLOYMENT DEMO</a>
+<a href="https://www.youtube.com/watch?v=P9UwLjKQBIg&feature=youtu.be">CLICK HERE FOR DEPLOYMENT DEMO</a>
 <br>
 # Table Of Contents
 - [PROJECT GOAL](#PROJECT-GOAL)
